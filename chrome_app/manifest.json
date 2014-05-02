@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+    "name": "HSL Color Picker",
+    "description": "A simple HSL/RGB/HEX color picker and converter.",
+    "version": "0.1.2",
+    "app": {
+        "background": {
+            "scripts": ["background.js"]
+        }
+    },
+    "icons": {
+        "16": "hsl-color-picker-16.png",
+        "128": "hsl-color-picker-128.png"
+    }
+}
