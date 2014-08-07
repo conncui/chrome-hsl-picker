@@ -3,7 +3,7 @@
     "name": "Color Picker and Converter",
     "short_name": "Color Picker and Converter",
     "description": "A simple HSLa/RGBa/HEX color picker and converter.",
-    "version": "0.1.4",
+    "version": "0.2.0",
     "offline_enabled": true,
     "app": {
         "background": {
