@@ -4,7 +4,6 @@
     "short_name": "Color Picker and Converter",
     "description": "A simple HSLa/RGBa/HEX color picker and converter.",
     "version": "0.2.0",
-    "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
     "offline_enabled": true,
     "app": {
         "background": {
